@@ -1,0 +1,47 @@
+.top{
+    width: 80%;
+    height: 55px;
+    background-color: #b98d8d;
+    position: sticky;
+    top:0;
+    display: flex;
+    align-items: center;
+    font-family: "Avenir Next Condensed";
+    border-radius: 5px;
+    margin: auto;
+    width: 50%;
+}
+.topCenter{
+    flex: 3px;
+    align-items: center;
+    text-align: center;
+}
+.topList{
+    display: flex;
+    justify-content: center;
+    font-weight: 100;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border-top-left-radius: 5px !important;
+    border-bottom-left-radius: 5px !important;
+    font-family: "Avenir Next Condensed";
+    text-align: center;
+    align-items: center;
+}
+.topListItem{
+    margin-right: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    cursor: pointer;
+    color: #f5ece0;
+    font-family: Chalkboard;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+.topListItem:hover {
+    color: #b9b2a8;
+
+}

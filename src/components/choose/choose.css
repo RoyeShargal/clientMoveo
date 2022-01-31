@@ -1,0 +1,30 @@
+.words{
+    margin-top: 10px;
+    width: 120px;
+    height: 30px;
+    border-radius: 12px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    font-family: "Avenir Next Condensed";
+    background-color: #dcba8d;
+    opacity: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.words:hover {
+    background-color: #d9a662; /* Green */
+    color: white;
+}
+.text{
+    font-family: "Avenir Next Condensed";
+
+}
+
+.wordsView{
+    margin: auto;
+    text-align: center;
+}

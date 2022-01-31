@@ -1,0 +1,31 @@
+.guess{
+    text-align: center
+
+}
+.guessedWord{
+    border: 1px solid #f1c1bc;
+    border-radius: 3px;
+    height: 30px;
+    text-align: center;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+.btn{
+    text-align: center;
+    margin-right: 10px;
+    width: 120px;
+    height: 30px;
+    border-radius: 12px;
+    cursor: pointer;
+    border: none;
+    color: white;
+    font-weight: 500;
+    border-radius: 5px;
+    font-family: "Avenir Next Condensed";
+    background-color: #dcba8d;
+    opacity: 80%;
+}
+.btn:hover {
+    background-color: #a68b65; /* Green */
+    color: white;
+}
